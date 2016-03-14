@@ -5,3 +5,4 @@ authors = ["Krody Robert <robi@presslabs.com>"]
 
 [dependencies]
 rustc-serialize = "0.3.18"
+docopt = "0.6"
